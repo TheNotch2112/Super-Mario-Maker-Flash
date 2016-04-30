@@ -8,19 +8,17 @@ NOTE: PUTTING MORE THAN ONE SET OF DOORS MESSES UP THE GAME!!!
     [ ^ ] Up Arrow - jump
 [< ]      [ >] Left & Right Arrows - walk/rotate level elements in edit
     [ V ] Down Arrow - Enter Door, 2 sec delay between entering doors
-_________________________________________________________
+
 Mouse - place level elements/select
 [Space] Spacebar - teleports Mario to mouse, hold to drag Mario
-_________________________________________________________
+
 [ T ] - set timer 
 [ D ] - erases doors
 [ Z ] - start/end recording (EXPERIMENTAL!)
 [ M ] - Clear Mushroom and goomba spawn points
-_________________________________________________________
+
 [1] [2] [3] [4] [5] [6] [7] [8] [9] [0] [Q] [A] Keys - select level elements
-_________________________________________________________
-Green Flag - Start/Restart Program
-Red Octagon - Stop Program
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ▄▀▄▀LEVEL BUILDING GUIDE▀▄▀▄:
@@ -67,5 +65,5 @@ Original Creator/designer - Shigeru Miyamoto
 Programmer/Re-designer - TheNotch2112
 
 @Griffpatch for helping (I used a slightly modified version of his platformer physics tutorial)
-_________________________________________________________
+
 Mario and all characters and graphics owned by Nintendo™ 

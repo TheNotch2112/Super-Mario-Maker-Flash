@@ -5,12 +5,12 @@ Controls:
 
 NOTE: PUTTING MORE THAN ONE SET OF DOORS MESSES UP THE GAME!!!
 
-    [ ^ ] Up Arrow - jump
-[< ]      [ >] Left & Right Arrows - walk/rotate level elements in edit
-    [ V ] Down Arrow - Enter Door, 2 sec delay between entering doors
+Up Arrow - jump
+Left & Right Arrows - walk/rotate level elements in edit
+Down Arrow - Enter Door, 2 sec delay between entering doors
 
 Mouse - place level elements/select
-[Space] Spacebar - teleports Mario to mouse, hold to drag Mario
+Spacebar - teleports Mario to mouse, hold to drag Mario
 
 [ T ] - set timer 
 [ D ] - erases doors
